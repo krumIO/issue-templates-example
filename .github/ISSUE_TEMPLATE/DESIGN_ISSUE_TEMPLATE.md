@@ -1,6 +1,6 @@
 ---
-name: Bug issue
-about: Use this template for tracking bugs.
+name: Design issue
+about: Use this template for creating design issues
 title: "[Category]: [Design issue title]"
 labels: Design
 assignees: 
