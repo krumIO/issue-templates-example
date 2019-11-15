@@ -1,11 +1,15 @@
 ---
 name: Bug issue
 about: Use this template for tracking bugs.
-title: "[Category]: [Bug title]"
-labels: Bug, needs triage
-assignees: krumdevelopment
+title: "[Category]: [Design issue title]"
+labels: Design
+assignees: 
 ---
-# Bug
+# Design Issue
+
+## Subtype (Feature / Feature Request / Issue / Bug)
+
+
 
 ## Expected Functionality
 
